@@ -1,6 +1,6 @@
 # FoodBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2 with [Tailwind](https://tailwindcss.com/docs/guides/angular) version 3.4.1.
 
 ## Development server
 
